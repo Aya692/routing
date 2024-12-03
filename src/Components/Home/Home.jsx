@@ -17,7 +17,7 @@ export default class Home  extends Component {
 
    render(){
     return  <>    
-      <p>Hello lets show our images together ya zmelly</p>
+      <p className="text-center bg-dark text-white fs-4 p-3">Hello lets show our images together ya zmelly</p>
     <img src={image1} alt="cat image" />  
     <img className="m-3" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXJA32WU4rBpx7maglqeEtt3ot1tPIRWptxA&s' alt="" />
         <p style={{textAlign: 'center' , color: 'blue' , fontSize: '2rem'}}>welcome</p>
