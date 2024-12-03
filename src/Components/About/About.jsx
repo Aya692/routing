@@ -20,7 +20,7 @@ export default class About extends Component  {
     <p>{this.state.count}</p>
     <button 
     onClick={this.changeCount}
-     className="btn btn-danger">change counter Now </button>
+     className="btn btn-danger">change counter Now ya ayoya</button>
      
     </>
  }
